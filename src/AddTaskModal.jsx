@@ -54,7 +54,7 @@ const AddTaskModal = ({
             shrink: true,
           }}
           inputProps={{
-            min: new Date().toISOString().split("T")[0], // Set the minimum date to today's date
+            min: new Date().toISOString().split("T")[0],
           }}
         />
         <FormControl fullWidth>
