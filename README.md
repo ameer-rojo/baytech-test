@@ -1,8 +1,12 @@
-# React + Vite
+# Baytech Exam
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prerequisites
+Latest Node.js Version
+Latest Node Package Manager Version (Comes with Node)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Option 1. Clone the repository: git clone https://github.com/ameer-rojo/baytech-test.git
+## Option 2. Unzip file and extract zip file
+1. Open any kind of command-line interface (CLI). (Git BASH, CMD, Powershell, Terminal)
+2. cd baytech-test
+3. npm install
+4. npm run dev
